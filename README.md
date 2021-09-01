@@ -1,5 +1,12 @@
 # Getting Started with Create React App
 
+Setup
+npx create-react-app react-redux-ts — template typescript
+Open VS Code to view files installed to get familiar with code based
+Setting up redux:
+npm install redux react-redux react-thunk @types/react-redux
+npm install redux-thunk @types/redux-thunk
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
